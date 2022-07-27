@@ -1,5 +1,5 @@
 ### Hi, I`m Damian 👋💻
-![giphy](https://user-images.githubusercontent.com/78944687/181286584-b23623b8-c501-469c-bd93-f8e4e79b104b.gif)
+![giphy (1)](https://user-images.githubusercontent.com/78944687/181287096-643bda3e-797d-4734-a83c-25bb3575ce95.gif)
 
 
 <!--
