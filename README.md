@@ -1,6 +1,6 @@
 ### Hi, I`m Damian 👋💻
-<div  width="100%" align="center">
-  <h1> <img src = "https://user-images.githubusercontent.com/78944687/181287096-643bda3e-797d-4734-a83c-25bb3575ce95.gif" width = 100px> </h1>
+<div   align="center">
+  <h1> <img src = "https://user-images.githubusercontent.com/78944687/181299396-57923b12-b889-4af1-8d13-fd95c44591aa.gif" width="80%" height="350px"> </h1>
 </div>
 
 <!--
