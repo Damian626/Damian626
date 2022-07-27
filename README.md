@@ -1,5 +1,5 @@
 ### Hi, I`m Damian 👋💻
-
+![me] (https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xk0va664z2zandrpza5m3oouwjskhh6b2g7a8l8f&rid=giphy.gif&ct=g)
 <!--
 **Damian626/Damian626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
