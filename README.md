@@ -1,5 +1,4 @@
 ### Hi, I`m Damian 👋💻
-![giphy (1)]()
 <div  width="100" align="center">
   <h1> <img src = "https://user-images.githubusercontent.com/78944687/181287096-643bda3e-797d-4734-a83c-25bb3575ce95.gif" width = 100px> </h1>
 </div>
