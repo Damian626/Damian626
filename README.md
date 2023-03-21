@@ -19,4 +19,4 @@
 </p>
 <h3 align="left">Portfolio:</h3>
 <p align="left">
- <a href="https://damianfunes.netlify.app/" target="blank"><img align="center" src="https://damianfunes.netlify.app/" alt="https://damianfunes.netlify.app/" height="30" width="40" /></a> 
+ <a href="https://damianfunes.netlify.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/10017/10017588.png" alt="https://damianfunes.netlify.app/" height="40" width="50" /></a> 
