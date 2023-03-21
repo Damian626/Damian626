@@ -16,5 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/damian-funes-989500225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/damian-funes-989500225/" height="30" width="40" /></a>
-  <a href "https://app.netlify.com/sites/damianfunes/overview" target="blank"> <img align="center" src="https://i.ytimg.com/vi/TwYKwaEjJd4/maxresdefault.jpg" alt="https://app.netlify.com/sites/damianfunes/overview" height="30" width="40" /></a>
 </p>
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+ <a href="https://damianfunes.netlify.app/" target="blank"><img align="center" src="https://damianfunes.netlify.app/" alt="https://damianfunes.netlify.app/" height="30" width="40" /></a> 
