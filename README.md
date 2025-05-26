@@ -40,7 +40,7 @@
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
       </div>
-      <p align="left">Linux distros and Servers</p>
+      <p align="left">Linux distros and Servers 🐧</p>
       <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
         <img width="12" />
