@@ -54,7 +54,7 @@
       </div>
     </td>
     <td width="40%" align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tzeHJ0cjBmYzg1dWxvdWd6ZmFwbjd0Ym5qYjA1YmJrYm96ZHRzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ovk7a3hxijblob8xsquu2abzsakvpf7zpmqeg22j&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
