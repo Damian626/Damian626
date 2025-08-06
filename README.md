@@ -42,18 +42,19 @@
       </div>
       <p align="left">Linux distros and Servers 🐧</p>
       <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJVI5SCDlnpFcgofZJAAQuIzHeBdlPO1n6Yw&s" height="40" alt="ubuntu logo"  />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nnS4PnvN05D4wv9_6UKsb-SfofMlHek4ew&s" height="40" alt="debian logo"  />
+        <img width="12" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" height="40" alt="mint logo"  />
+        <img width="12" />
+         <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="40" alt="arch logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-          <img width="12" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" height="40" alt="mint logo"  />
-        
       </div>
     </td>
     <td width="40%" align="center">
