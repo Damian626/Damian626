@@ -51,6 +51,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+        <img src="https://icon-icons.com/icon/distributor-logo-linux-mint/93822" />
       </div>
     </td>
     <td width="40%" align="center">
