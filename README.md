@@ -28,7 +28,7 @@
       <div align="left">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         <img width="12" />
-        <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" alt="express" width="40" height="40"/>
+        <img src="https://images.seeklogo.com/logo-png/33/2/express-js-logo-png_seeklogo-339850.png" alt="express" width="40" height="40"/>
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
         <img width="12" />
