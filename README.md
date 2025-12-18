@@ -46,7 +46,7 @@
         <img width="12" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png" height="40" alt="mint logo"  />
         <img width="12" />
-         <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" height="40" alt="arch logo"  />
+         <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" height="40" alt="arch logo"  />
         <img width="12" />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
