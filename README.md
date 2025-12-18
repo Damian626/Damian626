@@ -28,17 +28,15 @@
       <div align="left">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
         <img width="12" />
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="express" width="40" height="40"/>
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
       </div>
       <p align="left">Linux distros and Servers 🐧</p>
       <div align="left">
@@ -50,7 +48,6 @@
         <img width="12" />
          <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" height="40" alt="arch logo"  />
         <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
         <img width="12" />
